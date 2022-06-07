@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <Navbar dark color="primary">
         <div className="container">
-          <NavbarBrand href="/">LCN</NavbarBrand>
+          <NavbarBrand href="/">LCN113</NavbarBrand>
         </div>
       </Navbar>
     </div>
